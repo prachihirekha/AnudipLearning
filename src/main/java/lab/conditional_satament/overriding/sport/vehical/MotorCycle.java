@@ -1,6 +1,8 @@
-package src.main.java.lab.conditional_satament.overriding.sport.vehical;
+package lab.conditional_satament.overriding.sport.vehical;
 
-public class MotorCycle extends Vehicle{
+import lab.conditional_satament.overriding.sport.vehical.Vehicle;
+
+public class MotorCycle extends Vehicle {
 	void startEngine() {
 		System.out.println("The motorscycle's engine start wit a push of a buton.");
 	}

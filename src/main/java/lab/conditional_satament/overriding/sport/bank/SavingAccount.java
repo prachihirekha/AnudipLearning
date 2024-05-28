@@ -1,4 +1,4 @@
-package src.main.java.lab.conditional_satament.overriding.sport.bank;
+package lab.conditional_satament.overriding.sport.bank;
 
 public class SavingAccount extends Bank{
 	 //private static final double WITHDRAWAL_LIMIT = 1000.0;

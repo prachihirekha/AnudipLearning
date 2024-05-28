@@ -1,4 +1,4 @@
-package src.main.java.lab.conditional_satament.overriding.sport.vehical;
+package lab.conditional_satament.overriding.sport.vehical;
 
 public class Car extends Vehicle {
 	void startEngine() {

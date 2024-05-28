@@ -1,6 +1,6 @@
-package src.main.java.lab.conditional_satament.overriding.sport.animal;
+package lab.conditional_satament.overriding.sport.animal;
 
-public class Birds extends Animal {
+public class Birds {
 	void move() {
 		System.out.println("Birds are flyss");
 	}

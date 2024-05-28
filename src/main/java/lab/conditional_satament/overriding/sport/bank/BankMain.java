@@ -1,4 +1,4 @@
-package src.main.java.lab.conditional_satament.overriding.sport.bank;
+package lab.conditional_satament.overriding.sport.bank;
 
 public class BankMain {
 
