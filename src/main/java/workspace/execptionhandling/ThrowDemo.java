@@ -1,7 +1,7 @@
 package workspace.execptionhandling;
 // the  java throw kwyword is used to explicitly throw an exception we can  throw either checked or encheked exception in java by throe keyword .
  // the throw keyword is mainly used to throw custom exception
-public class ThrowDemo {
+public class ThrowDemo  {
       static void validateAge(int age){
          if(age<18) {
              throw  new ArithmeticException("Age Is not valid");// instance of class
